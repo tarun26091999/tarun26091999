@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 -->
-![](https://komarev.com/ghpvc/?username=tarun26091999)
+!
+[](https://komarev.com/ghpvc/?username=tarun26091999&style=flatflat-square&label=PROFILE+VIEWS)
+
+- 🔭 I’m currently working as Mentor in GSSOC '21.
+
+- 🔭 I'am also working as President of CodeChef JSSATEN Chapter.
+
+- 🌱 I’m currently preparing for interviews.
+
+- 💬 Ask me about DSA and Android development.
+
+- 📫 How to reach me: yadavtarun2015@gmail.com
+
