@@ -1,4 +1,4 @@
-### **Hi there** 👋
+### **Hello there** 👋
 
 ![](https://komarev.com/ghpvc/?username=tarun26091999&style=flatflat-square&label=PROFILE+VIEWS)
 
@@ -16,7 +16,7 @@
 - 👨‍💻 Currently working as an Intern in **GeeksForGeeks**
 - 💬 Ask me about **Data Structures and Algorithms & Android Dev**
 - 📫 How to reach me: **yadavtarun2015@gmail.com**
-- 🤔 I'm looking **Summer Internships**
+- 🤔 I'm looking for **Summer Internships**
 - 🔭 I currently need help to learn Computer Networks.
 - ⚡ Fun fact: !(Cricket and Coding are ❤️).
 
