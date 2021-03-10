@@ -18,7 +18,7 @@
 - 📫 How to reach me: **yadavtarun2015@gmail.com**
 - 🤔 I'm looking for **Summer Internships**
 - 🔭 I currently need help to learn Computer Networks.
-- ⚡ Fun fact: !(Cricket and Coding are ❤️).
+- ⚡ Fun fact: Cricket and Coding are ❤️.
 
 
 
