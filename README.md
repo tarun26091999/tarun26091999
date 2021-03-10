@@ -6,9 +6,10 @@
 
 
 
-- 21 years old
-- CSE Undergraduate.
-- DSA enthusiast, Android App Developer, Competitive Programmer.
+- 21 years old, CSE Undergraduate.
+- DSA enthusiast.
+- Android App Developer.
+- Competitive Programmer.
 - President at CodeChef JSSATEN Chapter.
 - Mentor at GSSOC '21.
 - DSA Scholar at TwoWaits.
@@ -22,7 +23,7 @@
 
 
 
-## Tech Stack
+## Techs I know
 <p align="left"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="c-plus-plus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
@@ -34,14 +35,14 @@
 
 <h2 align="left" >Let's Connect</h2>
 <div align="left">
-</a>
-<a href="https://twitter.com/yadavtarun_10" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="mailto:yadavtarun2015@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.linkedin.com/in/tarun-yadav-384320175/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
+</a>
+<a href="https://twitter.com/yadavtarun_10" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
