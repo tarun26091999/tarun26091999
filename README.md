@@ -1,4 +1,4 @@
-### **Hello there** 👋
+### **Hello There** 👋
 
 ![](https://komarev.com/ghpvc/?username=tarun26091999&style=flatflat-square&label=PROFILE+VIEWS)
 
@@ -7,12 +7,13 @@
 
 
 - 21 years old, CSE Undergraduate.
-- DSA enthusiast.
-- Android App Developer.
-- Competitive Programmer.
 - President at CodeChef JSSATEN Chapter.
 - Mentor at GSSOC '21.
 - DSA Scholar at TwoWaits.
+- Competitive Programmer.
+- DSA enthusiast.
+- Android App Developer.
+
 - 🌱 I’m currently preparing for interviews.
 - 👨‍💻 Currently working as an Intern in **GeeksForGeeks**
 - 💬 Ask me about **Data Structures and Algorithms & Android Dev**
