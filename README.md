@@ -6,10 +6,10 @@
 
 
 
-- 21 years old, CSE Undergraduate.
-- President at CodeChef JSSATEN Chapter.
-- Mentor at GSSOC '21.
-- DSA Scholar at TwoWaits.
+- 22 years old, CSE Undergraduate.
+- Worked as President at CodeChef JSSATEN Chapter.
+- Worked as Mentor at GSSOC '21.
+- Worked as DSA Scholar at TwoWaits.
 - Competitive Programmer.
 - DSA enthusiast.
 - Android App Developer.
